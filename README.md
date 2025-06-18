@@ -12,7 +12,7 @@
 ---
 
 ### 🛠 Tech Stack:
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Context API](https://img.shields.io/badge/ContextAPI-yellow?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
