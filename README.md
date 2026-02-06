@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ibrahim Aremu</h1>
 
 - 🌐 I am a MERN Fullstack developer 
-- 🛠️ Building a RIDE booking platform
+- 🛠️ Building a FOOD Ordering platform
 - 🔗 Open to collab on cool web projects
 - 🤔 Ask me about: AI, full-stack, or side projects
 
